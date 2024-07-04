@@ -159,7 +159,7 @@ You might create your own images or you might only use those created by others a
 
 A very detailed instructions to install Docker are provide in the below link
 
-https://docs.docker.com/get-docker/
+[https://docs.docker.com/get-docker/](https://docs.docker.com/engine/install/ubuntu/)
 
 For Demo, 
 
